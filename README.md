@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Hi there 👋
+I’m currently learning of Java, SQL, JS.
+
+
 <!--
 **barmaglot351/barmaglot351** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
