@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-Hi there 👋
 I’m currently learning of Java, SQL, JS.
 
 
