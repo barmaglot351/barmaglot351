@@ -1,5 +1,5 @@
 ### Hi there 👋
-I’m currently learning of Java, SQL, JS.
+I’m currently learning of Java, JS, SQL.
 
 
 <!--
