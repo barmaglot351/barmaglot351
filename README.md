@@ -1,7 +1,7 @@
 ### Hi there 👋
-🌱 I’m currently learning of Java, JS, SQL.
-💬 Ask me about OOP.
-📫 How to reach me: barmaglot351@gmail.com.
+🌱 I’m currently learning of Java, JS, SQL. <br/>
+💬 Ask me about OOP.<br/>
+📫 How to reach me: barmaglot351@gmail.com.<br/>
 ⚡ Fun fact: the first programming language for an electronic computer is Short Code
 
 <!--
