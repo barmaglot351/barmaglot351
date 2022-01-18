@@ -1,6 +1,8 @@
 ### Hi there 👋
-I’m currently learning of Java, JS, SQL. I know a little PHP. 
-
+🌱 I’m currently learning of Java, JS, SQL.
+💬 Ask me about OOP.
+📫 How to reach me: barmaglot351@gmail.com.
+⚡ Fun fact: the first programming language for an electronic computer is Short Code
 
 <!--
 **barmaglot351/barmaglot351** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
