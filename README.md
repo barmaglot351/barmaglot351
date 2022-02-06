@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src = "https://upload.wikimedia.org/wikipedia/ru/thumb/3/39/Java_logo.svg/800px-Java_logo.svg.png">
+<img src = "https://upload.wikimedia.org/wikipedia/ru/thumb/3/39/Java_logo.svg/800px-Java_logo.svg.png" width="50" height="50">
