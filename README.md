@@ -1,4 +1,4 @@
-<img src = "https://www.flexxus.com.ar/wp-content/uploads/2018/11/nueva-version.jpg">
+<img src = "https://www.flexxus.com.ar/wp-content/uploads/2018/11/nueva-version.jpg" height="50%">
 
 
 
