@@ -1,3 +1,7 @@
+<img src = "https://www.flexxus.com.ar/wp-content/uploads/2018/11/nueva-version.jpg">
+
+
+
 ### Hi there 👋
 🌱 I’m currently learning of Java, JS, SQL. <br/>
 💬 Ask me about OOP.<br/>
