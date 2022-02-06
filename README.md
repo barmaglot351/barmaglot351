@@ -1,4 +1,4 @@
-<img src = "https://www.idashboards.com/wp-content/uploads/2018/08/Dashboard-Types-e1534339964951.jpg">
+<!--<img src = "https://www.idashboards.com/wp-content/uploads/2018/08/Dashboard-Types-e1534339964951.jpg">-->
 
 
 ### Hi there 👋
