@@ -2,7 +2,7 @@
 
 
 ### Hi there 👋 I'm Aleksej
-🌱 I’m currently learning of Java, Spring, SQL. <br/>
+🌱 I’m currently learning of Java, Spring, SQL, Liquibase, Vaadin<br/>
 💬 Ask me about OOP.<br/>
 📫 How to reach me: barmaglot351@gmail.com.<br/>
 ⚡ Fun fact: the first programming language for an electronic computer is Short Code
