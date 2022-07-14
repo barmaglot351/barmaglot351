@@ -2,7 +2,7 @@
 
 
 ### Hi there 👋 I'm Aleksej
-🌱 I’m currently working on Java, SpringBoot, SQL, Liquibase, Vaadin, PostgreSQL<br/>
+🌱 My stack: Java, SpringBoot, Liquibase, Vaadin, PostgreSQL, XSD and XML, JCP<br/>
 💬 Ask me about OOP<br/>
 📫 How to reach me: barmaglot351@gmail.com<br/>
 ⚡ Fun fact: the first programming language for an electronic computer is Short Code
